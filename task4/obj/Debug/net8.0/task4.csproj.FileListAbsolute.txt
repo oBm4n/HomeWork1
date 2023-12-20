@@ -1,0 +1,14 @@
+F:\.work1\task4\bin\Debug\net8.0\task4.exe
+F:\.work1\task4\bin\Debug\net8.0\task4.deps.json
+F:\.work1\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+F:\.work1\task4\bin\Debug\net8.0\task4.dll
+F:\.work1\task4\bin\Debug\net8.0\task4.pdb
+F:\.work1\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\.work1\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+F:\.work1\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+F:\.work1\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+F:\.work1\task4\obj\Debug\net8.0\task4.dll
+F:\.work1\task4\obj\Debug\net8.0\refint\task4.dll
+F:\.work1\task4\obj\Debug\net8.0\task4.pdb
+F:\.work1\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+F:\.work1\task4\obj\Debug\net8.0\ref\task4.dll
